@@ -1,0 +1,6 @@
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - HUBERT\JSUMDUZE - Dodawanie\bin\Debug\JSUMDUZE - Dodawanie.exe.config
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - HUBERT\JSUMDUZE - Dodawanie\bin\Debug\JSUMDUZE - Dodawanie.exe
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - HUBERT\JSUMDUZE - Dodawanie\bin\Debug\JSUMDUZE - Dodawanie.pdb
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - HUBERT\JSUMDUZE - Dodawanie\obj\Debug\JSUMDUZE - Dodawanie.csprojAssemblyReference.cache
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - HUBERT\JSUMDUZE - Dodawanie\obj\Debug\JSUMDUZE - Dodawanie.exe
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - HUBERT\JSUMDUZE - Dodawanie\obj\Debug\JSUMDUZE - Dodawanie.pdb
